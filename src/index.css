@@ -1,0 +1,34 @@
+.footer {
+  background-color: #000;
+  width: 100%;
+  height: 350px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.social-media {
+  height: 8rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.img {
+  display: flex;
+  margin-top: 3rem;
+}
+
+.line {
+  background-color: grey;
+  width: 100rem;
+  margin-top: 5rem;
+}
+
+.copytight {
+  font-family: Poppins, sans-serif;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
